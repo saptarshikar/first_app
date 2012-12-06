@@ -1,5 +1,5 @@
-#Ruby of Rails Tutorial: first app
+#Ruby on Rails Tutorial: first app
 
-First app created for learning RoR. 
+First app created for learning Ruby on Rails. 
 
 Author: Saptarshi Kar
